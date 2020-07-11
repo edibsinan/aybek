@@ -12,6 +12,6 @@ import org.junit.runner.RunWith;
         dryRun = false,
         tags = "@login"
 )
-public class CukesRuner {
+public class CukesRunner {
 }
 
